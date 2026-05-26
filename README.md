@@ -1,132 +1,116 @@
 # ScaleSmart AI
 
-AI-powered startup intelligence platform integrating financial, legal, sectoral, investor, and market intelligence through transformer models, reinforcement learning, RAG systems, and adaptive risk analytics.
+> **Proprietary AI Venture · Launching Soon**
+
+AI-powered startup intelligence platform integrating financial, legal, sectoral, investor, and market intelligence through transformer models, reinforcement learning, RAG systems, and adaptive risk analytics — built for founders, VCs, and early-stage ecosystems.
+
+*Research presented at ICRATM 2026 — International Conference on Recent Advances in Technology & Management.*
 
 ---
 
-## Overview
+## What It Does
 
-ScaleSmart AI is an integrated startup intelligence platform designed to explore adaptive AI-driven decision-support systems for founders, venture ecosystems, and early-stage startup evaluation workflows.
+ScaleSmart AI gives founders and investors a unified AI brain for startup evaluation. It doesn't just score startups — it reasons across financial health, legal standing, market dynamics, investor landscape, and peer benchmarks simultaneously, then delivers strategic playbooks tailored to each company's situation.
 
-The platform combines multi-domain intelligence pipelines across:
-- financial analysis,
-- legal intelligence,
-- market intelligence,
-- investor intelligence,
-- peer benchmarking,
-- and conversational strategic advisory systems.
+Built because no existing tool combines all these intelligence dimensions in one adaptive system.
 
 ---
 
 ## Core Capabilities
 
-- AI-driven startup risk assessment
-- Financial intelligence analysis
-- Legal compliance intelligence
-- Sectoral market intelligence
-- Investor landscape analysis
-- Peer benchmarking systems
-- Conversational AI strategic advisor
-- Reinforcement learning optimization
-- Retrieval-augmented intelligence workflows
-- Adaptive startup scoring systems
+- Holistic startup risk scoring (financial + legal + sectoral + market)
+- Investor intelligence and landscape mapping
+- Peer benchmarking against sector cohorts
+- Legal compliance intelligence (Indian startup ecosystem)
+- AI-generated strategic playbooks for founders
+- Conversational strategic advisor (RAG-powered)
+- Reinforcement learning optimisation layer
+- Explainable AI decisions (SHAP / LIME)
 
 ---
 
-## Research Components
+## Architecture
 
-- FinBERT financial intelligence systems
-- LegalBERT adaptation for Indian legal ecosystems
-- Reinforcement learning optimization
-- Retrieval-augmented generation pipelines
-- Explainable AI workflows
-- Multi-domain startup intelligence orchestration
+ScaleSmart AI is built as a multi-domain intelligence orchestration system:
+
+```
+Input Layer          →  Startup data, financials, legal docs, market signals
+Financial Layer      →  FinBERT-powered financial health analysis
+Legal Layer          →  LegalBERT compliance and regulatory intelligence
+Market Layer         →  Sectoral and competitive intelligence pipelines
+Investor Layer       →  Funding landscape and investor match analysis
+RL Layer             →  Reinforcement learning risk optimisation
+RAG Layer            →  Retrieval-Augmented Generation for advisory context
+XAI Layer            →  SHAP/LIME explainability for all risk decisions
+Output Layer         →  Risk scores, playbooks, benchmarks, recommendations
+```
 
 ---
 
 ## Technology Stack
 
-- PyTorch
-- TensorFlow
-- BERT Architectures
-- Reinforcement Learning
-- RAG Systems
-- NLP Pipelines
-- Quantitative Analytics
-- Gradio
-- Hugging Face
+**AI / ML**
+- PyTorch · TensorFlow · Transformers
+- FinBERT · LegalBERT · LSTM
+- Reinforcement Learning · RAG · SHAP · LIME · HuggingFace
+
+**Backend**
+- Python · FastAPI · Gradio · Cloud-native microservices
+
+**Data**
+- Pandas · NumPy · Vector Databases · Quantitative Analytics
 
 ---
 
 ## Platform Preview
 
 ### Landing Interface
-
 ![Hero](assets/hero.png)
 
----
-
 ### Startup Assessment
-
 ![Assessment](assets/assessment.png)
 
----
-
 ### Market Intelligence
-
 ![Market](assets/market_intelligence.png)
 
----
-
 ### Investor Intelligence
-
 ![Investors](assets/investor_intelligence.png)
 
----
-
 ### Startup Playbooks
-
 ![Playbook](assets/playbook.png)
 
----
-
 ### Peer Benchmarking
-
 ![Peers](assets/peer_benchmarking.png)
 
----
-
 ### Conversational AI Advisor
-
 ![Advisor](assets/ai_advisor.png)
 
 ---
 
-## Evaluation Snapshot
+## Research
 
-Initial implementation experiments demonstrated strong integrated multi-domain intelligence performance across:
-- financial analysis,
-- legal intelligence,
-- sectoral analytics,
-- retrieval systems,
-- and adaptive risk evaluation workflows.
+The ScaleSmart AI framework was presented at:
 
-Detailed benchmark summaries are available in the benchmarks section.
+**ICRATM 2026** — 2nd International Conference on Recent Advances in Technology & Management
 
 ---
 
-## Research Publication
+## Proprietary Notice
 
-The framework was presented at the 2nd International Conference on Recent Advances in Technology & Management (ICRATM-2026).
-
----
-
-## Current Status
-
-Active research and development.
-
-This repository currently serves as a technical and research showcase.
-
-Detailed orchestration systems, backend infrastructure, datasets, and production deployment components remain private.
+> This repository documents the system architecture, research methodology, platform design, and capability overview of ScaleSmart AI.
+>
+> Core model weights, training infrastructure, production backend systems, internal datasets, and deployment pipelines are **proprietary and not publicly released** as this platform is under active development for commercial launch.
+>
+> For partnership or investment inquiries: **ribhavsoni19@gmail.com**
 
 ---
+
+## Founder
+
+**Ribhav Soni** — ML Engineer · AI Researcher · Founder
+
+- 9.8/10 GPA, Pune Institute of Computer Technology
+- 4 international research publications
+- Barclays Hackathon winner
+
+[github.com/Ribhav19](https://github.com/Ribhav19) · ribhavsoni19@gmail.com
